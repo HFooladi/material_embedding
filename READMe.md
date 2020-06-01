@@ -4,7 +4,8 @@ This is a repo for training a word2vec model on domain specific data (here chemi
 
 First, you shoud install all the required libraries.
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 The goal is to learn a sophisticated word embedding for domain specific data. Also, I have used Optuna for 
